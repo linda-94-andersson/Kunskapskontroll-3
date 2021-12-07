@@ -1,6 +1,14 @@
-.playerButton{
-    background-color: pink;
-    color: black;
+.playerButton {
+  background-color: pink;
+  color: black;
+}
+
+body.correct {
+  background-color: green;
+}
+
+body.wrong {
+  background-color: red;
 }
 
 /*  
